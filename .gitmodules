@@ -1,3 +1,6 @@
 [submodule "deps/libzrtp"]
 	path = deps/libzrtp
 	url = https://github.com/traviscross/libzrtp.git
+[submodule "deps/sofia-sip"]
+	path = deps/sofia-sip
+	url = https://github.com/davehorton/sofia-sip.git
